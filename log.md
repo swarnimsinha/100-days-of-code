@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 2, 2018
+### Day 0: January 2nd, 2018
 
 **Today's Progress**: Started solving questions from leetcode (https://leetcode.com/)
 
