@@ -30,9 +30,11 @@ class Solution(object):
                 l2 = l2.next
             except:
                 l2 = l2
+            # carry + 2 values
             tempSum = ans[-1] + l2Val + l1Val
             carry = tempSum // 10
             sumVal = tempSum % 10
+            # remove the "carry" element from the array
             ans.pop()
             ans.append(sumVal)
             ans.append(carry)
